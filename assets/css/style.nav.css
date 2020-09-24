@@ -1,0 +1,51 @@
+
+#tda-main-nav {
+
+	border	: 0px solid;
+	padding	: 0px;
+	margin	: 0px;
+	
+	background: #f9f9f9;
+}
+
+#tda-main-nav > ul { 
+	
+	padding	: 0px;
+	margin	: 0px;
+	border	: 0px solid;
+	
+	margin: 0 auto;
+	width: 1000px;
+	
+	background: #f1f1f1;
+}
+
+#tda-main-nav > ul > li {
+	
+	border: 0px solid;
+	border-bottom: 05px solid #f1f1f1;
+	display: inline-block;
+	padding: 05px 10px;
+	
+}
+
+#tda-main-nav > ul > li.active {
+	 
+	border-bottom: 05px solid red;
+	background: #fff;
+	color: red;
+}
+
+#tda-main-nav > ul > li.active > a {
+	
+	color: fuchsia;
+}
+
+#tda-main-nav > ul > li > a  {
+	
+	text-decoration: none;
+}
+
+a:visited {
+	color: bluelight;
+}

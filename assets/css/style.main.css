@@ -1,0 +1,52 @@
+
+@import url("./style.nav.css");
+@import url("./style.general.css");
+
+
+#tda-top-header {
+		
+	width: 1000px;
+	margin: 0px auto;
+}
+
+#tda-App-brand {
+	
+	font-size: 36pt;
+}
+
+#tda-main {
+	
+	width: 1000px;
+	margin: 0px auto;
+	border: 0px solid;
+}
+
+#tda-img-00  {
+	
+	border: 0px solid yellow;
+	position: absolute;
+	bottom: 0px;
+	right: 125px;
+	z-index: 1;
+	
+}
+
+/* Footer */
+#tda-main-footer {
+	
+	border: 0px solid;
+	
+	width: 100%;
+	position: absolute;
+	bottom: 0px;
+	
+	background: #f1f1f1;
+}
+
+#tda-main-footer > div {
+	
+	width: 1000px;
+	margin: 0px auto;
+	
+	background: #f9f9f9;
+}
