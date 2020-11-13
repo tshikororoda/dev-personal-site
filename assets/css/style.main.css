@@ -14,6 +14,15 @@
 	font-size: 36pt;
 }
 
+#tda-welcome-note {
+
+	border: 01px solid #f1f1f1;
+	position: absolute;
+	
+	top: 70px;
+	right: 200px;
+}
+
 #tda-main {
 	
 	width: 1000px;
