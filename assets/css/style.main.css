@@ -22,13 +22,19 @@
 }
 
 #tda-img-00  {
-	
+
 	border: 0px solid yellow;
-	position: absolute;
+	/* position: absolute;
 	bottom: 0px;
 	right: 125px;
 	z-index: 1;
+	*/
 	
+}
+
+#tda-img-00 img {
+
+	width: 240px;
 }
 
 /* Footer */
